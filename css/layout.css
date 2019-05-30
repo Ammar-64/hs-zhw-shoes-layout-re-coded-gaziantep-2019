@@ -21,12 +21,12 @@
 .clear {
   clear: both;
 }
-.col2_right {
+.col2_left {
   float: left;
   width: 32%;
   margin-bottom: 20px;
 }
-.col2_left {
+.col2_right {
   float: left;
   width: 66%;
   margin-bottom: 20px;
