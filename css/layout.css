@@ -30,6 +30,7 @@
   float: left;
   width: 66%;
   margin-bottom: 20px;
+  margin-right: 2%;
 }
 [class*=col-1] {
   margin-left: 2%;
