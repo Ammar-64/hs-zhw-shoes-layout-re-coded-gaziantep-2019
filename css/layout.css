@@ -25,13 +25,11 @@
   float: left;
   width: 32%;
   margin-bottom: 20px;
-  clear: both;
 }
 .col-2 {
   float: left;
   width: 66%;
   margin-bottom: 20px;
-  clear: both;
 }
 [class*=col-1] {
   margin-left: 2%;
