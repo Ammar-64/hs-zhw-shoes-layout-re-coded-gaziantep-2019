@@ -25,11 +25,11 @@
   float: left;
   width: 32%;
   margin-bottom: 25px;
+  margin-left: 2%;
 }
 .col2_left {
   float: left;
   width: 66%;
-  margin-right: 2%;
   margin-bottom: 20px;
 }
 .col1_left {
