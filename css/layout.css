@@ -35,6 +35,7 @@
 .col1_left {
   float: left;
   width: 32%;
+  margin-right: 0%;
 }
 .col1_mid {
   float: left;
